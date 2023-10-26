@@ -31,7 +31,7 @@ jobs:
     # - run: npm install @angular-devkit/build-angular@14.2.9
     # - run: npm run lint
     - run: npm install --save-dev @angular/cli
-    - run: np build --prod 
+    - run: ng build --prod 
     - run: npm run build:all
     - run: sudo apt-get install xvfb
     - run: xvfb-run npm run test:ci
