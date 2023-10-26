@@ -51,9 +51,7 @@
     "sinon-chrome": "^2.3.2",
     "tinygradient": "0.4.1",
     "uuid": "^3.2.1",
-    "zone.js": "^0.8.26"
-  },
-  "devDependencies": {
+    "zone.js": "^0.8.26",
     "@angular-devkit/build-angular": "^14.2.9",
     "@angular/cli": "^15.1.4",
     "@angular/compiler-cli": "^6.1.6",
